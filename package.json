@@ -1,0 +1,8 @@
+{
+  "name": "prettier-plugin-solidity",
+  "version": "1.0.0",
+  "description": "Prettier Plugin for Solidity",
+  "main": "index.js",
+  "author": "Klaus Hott",
+  "license": "MIT"
+}
